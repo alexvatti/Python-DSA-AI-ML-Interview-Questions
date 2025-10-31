@@ -1,4 +1,4 @@
-# Tech Sophy Interview Syllabus AI ML
+# Skill Set AI ML
 
 ##  1. Python
 
