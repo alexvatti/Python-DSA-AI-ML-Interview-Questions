@@ -46,12 +46,12 @@
 
 ## 5. Machine Learning
 
-* Regression & Classification**
-* Unsupervised Learning**
-* Time Series Basics**
-* Model Evaluation**
-* Metrics:** MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix, Silhouette Score, Davies–Bouldin Index, Calinski–Harabasz Score, MAPE
-* Package:** scikit-learn
+* Regression & Classification
+* Unsupervised Learning
+* Time Series Basics
+* Model Evaluation
+* Metrics: MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix, Silhouette Score, Davies–Bouldin Index, Calinski–Harabasz Score, MAPE
+* Package: scikit-learn
 
 
 ## 6. Deep Learning
@@ -60,6 +60,10 @@
 * Keras & PyTorch
 * TorchVision Basics
 * Training Optimization
+* Activation functions and Optimizers
+* epoch and Batch Size
+* Image Pre Processing using OpenCV
+* Text Pre Processing using NLTK
 
 ## 7. BERT / Transformers
 
