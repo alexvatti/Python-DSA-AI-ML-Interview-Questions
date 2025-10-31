@@ -71,7 +71,7 @@
 * Attention Mechanisms
 * Positional Encoding
 * Layer Normalization
-* Transfomer
+* Transformer
 
 ## 8. Large Language Models
 
